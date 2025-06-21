@@ -13,3 +13,4 @@ fi
 export STAGING_ROOT="/data/safe_staging"
 
 export FINGERPRINT="VOLKSWAGEN_ID4_MK1"
+export SKIP_FW_QUERY="1"
